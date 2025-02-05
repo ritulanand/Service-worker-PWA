@@ -1,0 +1,8 @@
+{
+    "name" : "Basic PWA App",
+    "short_name" : "Basic PWA",
+    "description" : "Our very first PWA application!",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#ffffff"
+}
